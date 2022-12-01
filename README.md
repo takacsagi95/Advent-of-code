@@ -1,2 +1,2 @@
-# Advant-of-code
+# Advent-of-code
 Advent coding challenge
