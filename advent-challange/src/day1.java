@@ -27,7 +27,6 @@ public class day1 {
     return maxCalories;
   }
 
-  // ^\n|^\s+\n
   public static HashMap<Integer, Integer> hashMapFromFile(String filepath) {
     HashMap<Integer, Integer> map = new HashMap<>();
     try {
